@@ -1,0 +1,32 @@
+@import "base/animation";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+@import "base/abstracts/functions";
+@import "base/abstracts/mixins";
+@import "base/abstracts/variables";
+
+@import "base/components/bg-video";
+@import "base/components/button";
+@import "base/components/card";
+@import "base/components/composition";
+@import "base/components/feature-box";
+@import "base/components/form";
+@import "base/components/story";
+@import "base/components/popup";
+
+@import "base/layout/footer";
+@import "base/layout/grid";
+@import "base/layout/header";
+@import "base/layout/navigation";
+
+@import "base/pages/home";
+
+    
+$color-body: rgb(119, 119, 119);
+$color-primary-light: rgba(126, 213, 111, 0.8);
+$color-primary-dark: rgba(40, 180, 138, 0.8);
+$color-white: rgb(255, 255, 255);
+$color-black: rgb(0, 0, 0);
+$color-grey-1: #f7f7f7;
